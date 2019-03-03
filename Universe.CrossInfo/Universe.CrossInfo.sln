@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universe.CrossInfo", "Universe.CrossInfo\Universe.CrossInfo.csproj", "{FDD606AD-3FC0-4960-BD9F-2F644D3E7913}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Universe.CrossInfo-NETSTANDARD-1.3", "Universe.CrossInfo-NETSTANDARD-1.3\Universe.CrossInfo-NETSTANDARD-1.3.csproj", "{C36C52E6-7AB2-4C1C-BFEA-6A09E12928B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDD606AD-3FC0-4960-BD9F-2F644D3E7913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDD606AD-3FC0-4960-BD9F-2F644D3E7913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDD606AD-3FC0-4960-BD9F-2F644D3E7913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDD606AD-3FC0-4960-BD9F-2F644D3E7913}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C36C52E6-7AB2-4C1C-BFEA-6A09E12928B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36C52E6-7AB2-4C1C-BFEA-6A09E12928B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36C52E6-7AB2-4C1C-BFEA-6A09E12928B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36C52E6-7AB2-4C1C-BFEA-6A09E12928B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31DD1F6D-BAEC-419F-9629-31D8B726161D}
+	EndGlobalSection
+EndGlobal
